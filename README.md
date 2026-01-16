@@ -40,7 +40,7 @@ This project is designed to fetch data from Google Classroom and store it in an 
 
 2. Configure your `.dotenv` in frontend folder with your credentials from Google Classroom API obtained in GCP
 
-3. `docker-compose up --build`
+3. `docker compose up --build`
 
 4. In backend folder: `npx prisma migrate dev --name init`
 
