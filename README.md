@@ -6,7 +6,7 @@
 <p> 
   <img src="https://img.shields.io/badge/Release-Dec%202024-green">  
   <img src="https://img.shields.io/badge/Version-0.1.0-blue">  
-  <img src="https://img.shields.io/github/stars/MateusPitura/web-react-kanban?style=social"> 
+  <img src="https://img.shields.io/github/stars/MateusPitura/web-js-kanban?style=social"> 
 </p> 
 
 ## Description
@@ -36,7 +36,7 @@ This project is designed to fetch data from Google Classroom and store it in an 
 
 **For devs:** 
 
-1. `git clone git@github.com:MateusPitura/web-react-kanban.git app`  
+1. `git clone git@github.com:MateusPitura/web-js-kanban.git app`  
 
 2. Configure your `.dotenv` in frontend folder with your credentials from Google Classroom API obtained in GCP
 
