@@ -5,7 +5,6 @@
 
 <p> 
   <img src="https://img.shields.io/badge/Release-Dec%202024-green">  
-  <img src="https://img.shields.io/badge/Version-0.1.0-blue">  
   <img src="https://img.shields.io/github/stars/MateusPitura/web-js-kanban?style=social"> 
 </p> 
 
